@@ -174,12 +174,4 @@ http://localhost:8501
 
 ---
 
-## 👨‍💻 Author
-
-* Your Name
-
----
-
-## ⭐ Conclusion
-
 This project demonstrates how Machine Learning can be effectively applied in the financial domain to solve real-world problems like credit risk assessment. It showcases the complete pipeline from data preprocessing to model deployment with a user-friendly interface.
