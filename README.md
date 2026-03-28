@@ -172,6 +172,8 @@ http://localhost:8501
 * Deploy as a cloud-based web application
 * Integrate real-time financial APIs
 
+  Deployment link: https://credit-risk-assessment-project.streamlit.app/
+
 ---
 
 This project demonstrates how Machine Learning can be effectively applied in the financial domain to solve real-world problems like credit risk assessment. It showcases the complete pipeline from data preprocessing to model deployment with a user-friendly interface.
